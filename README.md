@@ -19,7 +19,7 @@ Feel free to explore, clone, or fork this repository to:
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/poison2612/GoogleVisionClone-Frontend.git
+git clone https://github.com/poison2612/GoogleVisionClone.git
 
 
 2. Open the `index.html` file in your preferred web browser to explore the user interface.

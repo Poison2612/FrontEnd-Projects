@@ -2,6 +2,11 @@
 
 Welcome to the GoogleVisionClone-Frontend repository! This project aims to recreate the user interface of Google Vision for educational and visual purposes. While this clone doesn't have the actual back-end processing capabilities, it serves as a demonstration of front-end development skills and a learning resource for web development enthusiasts.
 
+## Project Showcase
+
+Check out the hosted website: [GoogleVisionClone](https://poison2612.github.io/GoogleVisionClone)
+
+
 ## Key Features
 
 - **Visual Replica:** This project replicates the user interface of Google Vision, providing insights into the design and layout of the original application.
